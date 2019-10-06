@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+1. Excersises
+   1. Bycicle
+2. Sleep
+   * All night
+3. Learning
+   * myself
+   * e-learning
